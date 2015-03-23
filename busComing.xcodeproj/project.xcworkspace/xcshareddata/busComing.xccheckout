@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2FB295B6-C75A-4385-9CF3-B227FC671E51</string>
+	<key>IDESourceControlProjectName</key>
+	<string>busComing</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>64BE0B879EF35B37C25FF0C8B3BE9531CC77754D</key>
+		<string>http://gitlab.wupeng.cn/pzh/buswhere.git</string>
+		<key>65BE6AFD5A8A81335878071C0E98C6982A2A1CC5</key>
+		<string>gitlab.wupeng.cn:pzh/buscoming.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>busComing.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>64BE0B879EF35B37C25FF0C8B3BE9531CC77754D</key>
+		<string>../../../buswhere</string>
+		<key>65BE6AFD5A8A81335878071C0E98C6982A2A1CC5</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>gitlab.wupeng.cn:pzh/buscoming.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>65BE6AFD5A8A81335878071C0E98C6982A2A1CC5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>65BE6AFD5A8A81335878071C0E98C6982A2A1CC5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>buscomingclone</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>64BE0B879EF35B37C25FF0C8B3BE9531CC77754D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>buswhere</string>
+		</dict>
+	</array>
+</dict>
+</plist>

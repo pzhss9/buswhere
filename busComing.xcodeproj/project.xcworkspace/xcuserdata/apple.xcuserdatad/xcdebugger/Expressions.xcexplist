@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[BIDSecondLevelViewController viewWillAppear:]:BIDSecondLevelViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.type">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BIDMoreController tableView:didSelectRowAtIndexPath:]:BIDMoreController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BIDSecondLevelViewController cleanPoi]:BIDSecondLevelViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "poi_count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BIDChaxun tableView:cellForRowAtIndexPath:]:BIDChaxun.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.section">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BIDLeftViewController tableView:didSelectRowAtIndexPath:]:BIDLeftViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "appDelegate.mainNavigationController">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BIDSecondLevelViewController loadData]:BIDSecondLevelViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "poi">
+            </PersistentString>
+            <PersistentString
+               value = "self.mapview">
+            </PersistentString>
+            <PersistentString
+               value = "item">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[RouteSearchDemoViewController onGetTransitRouteResult:result:errorCode:]:RouteSearchDemoViewController.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "transitStep.instruction">
+            </PersistentString>
+            <PersistentString
+               value = "result">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BIDChaxun tableView:numberOfRowsInSection:]:BIDChaxun.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "section">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BIDChaxun searchBar:textDidChange:]:BIDChaxun.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "searchBar.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BIDSecondLevelViewController startLocation:]:BIDSecondLevelViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.type">
+            </PersistentString>
+            <PersistentString
+               value = "tingzhizhaungtai">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
